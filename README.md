@@ -1,3 +1,19 @@
+📌 AI-summarizer
+
+Description:
+
+🤖 AI-powered text summarization tool
+
+✂️ Converts long text into concise summaries
+
+🧠 Uses NLP and prompt-based workflows
+
+📖 Improves content readability
+
+🚀 Practical application of Generative AI
+
+🛠️ Tech Stack:
+🐍 Python, 🗣️ NLP, 🤖 Generative AI, ✨ Prompt Engineering
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
